@@ -14,3 +14,9 @@ create a account on bots.socpanel.com
 Step 3 
 message some people here https://bots.socpanel.com/customers and ask if they can add you as a worker
 after some of theme added you to thair panel you can start using the bot!
+
+Step 4
+run the with those
+py bot.py
+than input this just with your own botspanel api key and own complete key
+{"Api_Key": "your api key", "Comple": "Your id you need to complete", "ranto": "30"} 
