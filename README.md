@@ -20,3 +20,5 @@ run the with those
 py bot.py
 than input this just with your own botspanel api key and own complete key
 {"Api_Key": "your api key", "Comple": "Your id you need to complete", "ranto": "30"} 
+
+if you want support just comment i will help you just dont expect it in less than 48 hours thanx
